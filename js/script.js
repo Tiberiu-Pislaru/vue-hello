@@ -3,6 +3,6 @@ new Vue({
     data:{
         message:'Hello world',
         text:'',
-        image:"https://unsplash.it/300/300?image=12"
+        image:"https://unsplash.it/300/300?image="
     }
 }) 
